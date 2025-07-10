@@ -22,7 +22,7 @@ dependencies {
 	testImplementation("org.springframework.boot:spring-boot-starter-test")
 	testRuntimeOnly("org.junit.platform:junit-platform-launcher")
 	implementation ("com.theokanning.openai-gpt3-java:service:0.18.2")
-
+	implementation("org.springframework.boot:spring-boot-starter-web")
 
 }
 
